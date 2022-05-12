@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		5B07B0C4282C5DDD006F04C4 /* Telephone directory using linkedlist(data structures project) */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Telephone directory using linkedlist(data structures project)"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5B07B0C7282C5DDD006F04C4 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		5B07B0CE282D3973006F04C4 /* teldir.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = teldir.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -41,6 +42,7 @@
 		5B07B0BB282C5DDC006F04C4 = {
 			isa = PBXGroup;
 			children = (
+				5B07B0CE282D3973006F04C4 /* teldir.txt */,
 				5B07B0C6282C5DDD006F04C4 /* Telephone directory using linkedlist(data structures project) */,
 				5B07B0C5282C5DDD006F04C4 /* Products */,
 			);
